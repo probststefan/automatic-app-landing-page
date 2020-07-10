@@ -634,6 +634,8 @@ footer {
 	display: flex;
 	text-align: center;
 	padding-bottom: 70px;
+	flex: 0 0 100%;
+    justify-content: center;
 }
 
 .footerLinks a {
